@@ -1,1 +1,6 @@
 Welcome to registration page!
+Azurirati fajl novom linijom:
+Enter username: ________________
+Enter password: ________________
+
+| Register |
