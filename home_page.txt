@@ -2,4 +2,5 @@ Welcome to Home page!
 Nav:
 Home>
 Login>
+Register>
 Welcome to Metis!
