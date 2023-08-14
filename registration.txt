@@ -3,4 +3,5 @@ Azurirati fajl novom linijom:
 Enter username: ________________
 Enter password: ________________
 
+|_| I agree to Terms and Conditions
 | Register |
